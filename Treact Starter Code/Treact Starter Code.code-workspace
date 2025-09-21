@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../TUTORIAL EPORTFOLIO"
+		},
+		{
+			"path": "../FES LIBRARY"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FES LIBRARY"
+	}
+}
